@@ -21,6 +21,6 @@
 # 2025-04-13
 - [Flutter 컬러 박스 레이아웃 ](2025-04-13/colorbox.dart)
 - [Flutter 계산기(외형) 레이아웃 ](2025-04-13/calculator.dart)
-# 2025-04-14
-- [Flutter 위젯의 라이프사이클 흐름 ](2025-04-14/Lifecycle.dart)
-stack구조에서, initState(), build(), dispose() 출력
+# 2025-04-18
+- [Flutter 위젯의 라이프사이클](2025-04-18/lifecycle/)
+
