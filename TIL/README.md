@@ -23,4 +23,6 @@
 - [Flutter 계산기(외형) 레이아웃 ](2025-04-13/calculator.dart)
 # 2025-04-18
 - [Flutter 위젯의 라이프사이클](2025-04-18/lifecycle/)
-
+# 2025-04-20
+-[Flutter api연동 ](2025-04-20/vilage_forecast_service.dart)
+-[Flutter api연동 ](2025-04-20/weather_controller.dart)
